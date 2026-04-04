@@ -2,8 +2,8 @@
 
 <h2> 
     <a href="https://matt-macarte.github.io/My-Website/">Matheus AC</a> 
-    <img src="./assets/eu_prom_1_round.webp" width="300" align="right">
 </h2>
+    <img src="./assets/eu_prom_1_round.webp" width="300" align="right">
 
 
 *He/him*
