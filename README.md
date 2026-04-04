@@ -10,11 +10,9 @@
 
 Hi! I'm an aspiring **computer scientist** who never stops searching for knowledge.
 
-I have a few hobbies, such as *cocktailing*, *baking*, *coffee* and *electronics*.
+I have a few hobbies, such as *cocktailing*, *baking*, *coffee* and *electronics*. My passion is to <em style="color:#FFD60A;">create</em>.
 
-I love to create and to plan.
-
-> If the idea is fun, you can count me in!
+> *If the idea is fun, you can count me in!*
 
 ---
 
