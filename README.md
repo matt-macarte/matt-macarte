@@ -1,14 +1,20 @@
+<div align="right">
+    <a href="./README-BR.md">
+        <img src="./assets/lg-button-pt.png" alt="pt-br" width="180px" ></img>
+    </a>
+</div>
+
 <h1><em>Greetings!</em></h1>
 
 <h2> 
     <a href="https://matt-macarte.github.io/My-Website/">Matheus AC</a> 
 </h2>
-    <img src="./assets/eu_prom_1_round.webp" width="300" align="right">
 
+<img src="./assets/eu_prom_1_round.webp" width="300" align="right">
 
 *He/him*
 
-Hi! I'm an aspiring **computer scientist** who never stops searching for knowledge.
+Hi! I'm an aspiring **computer scientist** who never stops *searching for knowledge*.
 
 I have a few hobbies, such as *cocktailing*, *baking*, *coffee* and *electronics*. My passion is to <em style="color:#FFD60A;">create</em>.
 
@@ -28,7 +34,6 @@ Daily learning **font-end** webdev (HTML, CSS, JS) and **C++**.
     <img src="./assets/godot-game-engine-icon.webp" alt="Godot icon" width="40px">
 </div>
 <p style="font-size:x-small"><em>(and neovim...)</em></p>
-
 
 Feel free to e-mail me anytime!
 
