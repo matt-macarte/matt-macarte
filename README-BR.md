@@ -1,10 +1,8 @@
-<div align="right" >
-    <a href="./README.md">
-        <img src="./assets/lg-button-en.png" alt="pt-br" width="180px" ></img>
-    </a>
-</div>
-
 <h1><em>Saudações!</em></h1>
+
+<a href="./README.md">
+    <img src="./assets/lg-button-en.png" alt="pt-br" width="180px" ></img>
+</a>
 
 <h2> 
     <a href="https://matt-macarte.github.io/My-Website/">Matheus AC</a> 

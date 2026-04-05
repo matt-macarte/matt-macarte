@@ -1,16 +1,20 @@
-<div align="right">
-    <a href="./README-BR.md">
-        <img src="./assets/lg-button-pt.png" alt="pt-br" width="180px" ></img>
-    </a>
-</div>
-
 <h1><em>Greetings!</em></h1>
+
+<a href="./README-BR.md">
+    <img src="./assets/lg-button-pt.png" alt="pt-br" width="180px" ></img>
+</a>
+
+
 
 <h2> 
     <a href="https://matt-macarte.github.io/My-Website/">Matheus AC</a> 
 </h2>
 
-<img src="./assets/eu_prom_1_round.webp" width="300" align="right">
+<img src="./assets/eu_prom_1_round.webp" alt="a photo of me" width="300" align="right"></img>
+
+
+
+
 
 *He/him*
 
